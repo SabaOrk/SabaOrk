@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Siege Discord Bot
+- 🔭 I’m currently working on Siege Discord Bota and a Blogger.
 - 🌱 I’m currently learning Computer Science in Universitat of Saarland
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
