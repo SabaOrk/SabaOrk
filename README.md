@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on brandergate.com
 - 🌱 I’m currently learning Computer Science at the University of Saarland
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Anything
-- 📫 How to reach me: saba.orkoshneli16@gmail.com / Discord: 𝓺𝓗𝔁𝓿𝓷#3788 
+- 📫 How to reach me: orkoshnelisaba@gmail.com / Discord: Sabo#3788 
 
 
 
